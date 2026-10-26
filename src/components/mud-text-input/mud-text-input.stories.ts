@@ -492,12 +492,6 @@ export const Clearable: Story = {
           /*html*/ `<mud-text-input size="lg" label="Find" clearable placeholder="Type to reveal ×"></mud-text-input>`,
         ),
         cell(
-          'with leading icon',
-          /*html*/ `<mud-text-input size="lg" label="Find" value="Bălți" clearable placeholder="Find">
-            <mud-icon slot="icon-start" name="search" size="20"></mud-icon>
-          </mud-text-input>`,
-        ),
-        cell(
           'md size',
           /*html*/ `<mud-text-input size="md" label="Find" value="Orhei" clearable placeholder="Find"></mud-text-input>`,
         ),
