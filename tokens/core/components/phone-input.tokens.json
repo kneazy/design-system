@@ -436,8 +436,9 @@
         "$type": "fontFamily"
       },
       "fontWeight": {
-        "$value": "{fontWeight.medium}",
-        "$type": "fontWeight"
+        "$value": "{fontWeight.regular}",
+        "$type": "fontWeight",
+        "$comment": "Figma 3318:18570, 6173:6020: the dial code is Desktop/Body/Default and Body/Small, both Regular 400."
       },
       "fontSize": {
         "md": {

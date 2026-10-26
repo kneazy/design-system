@@ -424,6 +424,7 @@
           "styles": {
             "fontSize": "16px",
             "lineHeight": "24px",
+            "fontWeight": "400",
             "color": "#121212"
           },
           "note": "Figma 3318:18570 sets the dial code in Desktop/Body/Default #121212."
@@ -565,7 +566,8 @@
           "node": "6173:6020",
           "styles": {
             "fontSize": "14px",
-            "lineHeight": "20px"
+            "lineHeight": "20px",
+            "fontWeight": "400"
           },
           "note": "Figma 6173:6020 steps the dial code down to Desktop/Body/Small."
         },

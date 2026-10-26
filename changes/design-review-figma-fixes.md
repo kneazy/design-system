@@ -14,6 +14,7 @@ From the Storybook design review of 12.10.2026, each checked against its Figma n
   input is read-only, not disabled, while loading, so it keeps focus. The tokens
   `--phone-input-control-loading-opacity`, `--input-control-loading-opacity` and
   `--numeric-input-control-loading-opacity` are removed.
+- `mud-phone-input` sets the dial code (`+373`) in Regular instead of Medium (3318:18570).
 - `mud-date-input` with `readonly` gets the shared read-only look: a grey surface, no border and a check in place
   of the calendar button (new part `valid-icon`).
 - `mud-text-input` (and `mud-textarea`, which shares the token) draws no border when read-only (132:3467).
